@@ -1,6 +1,7 @@
 # bloc_with_breakingbad_api
 
 A new Flutter project.
+Not working because the API not available
 
 ## Getting Started
 
